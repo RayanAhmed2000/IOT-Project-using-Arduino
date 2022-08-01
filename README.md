@@ -30,7 +30,7 @@ Yellow wire -> Pin 7 <br>
 Gnd         -> Gnd <br>
 
 **To view my simulator circuit that I created on WORKWI** [Click here](https://wokwi.com/projects/338614110134469203)<br><br>
-**To view Arduino code on my github profile** [Click here](https://wokwi.com/projects/338614110134469203)<br><br>
+**To view Arduino code on my github profile** [Click here](https://github.com/RayanAhmed2000/IOT-Project-using-Arduino/blob/main/Arduino%20Code.cpp)<br><br>
 
 
 
