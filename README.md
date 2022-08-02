@@ -18,6 +18,13 @@ and many more.....<br>
  
 I have created a Smart IOT device which is based on **object detection** using an **Ultrasonic module**<br><br>
 
+
+
+# Model - Smart Dustbin Using Arduino 🗑️
+
+The dustbin will detect objects usin the **ultrasonic module** and triggee the **servo motor** which will then cause the lid of the dustbin to open <br>
+This is a small representation of how IOT devices work<br><br>
+
 # Connections 🔌
 ## Ultrasonic module with Arduino R3
 Vcc  -> 5V (for Power supply)<br>
@@ -28,11 +35,6 @@ Gnd  -> Gnd<br><br>
 Red Wire    -> 3.3V (for power supply) <br>
 Yellow wire -> Pin 7 <br>
 Gnd         -> Gnd <br><br>
-
-# Model - Smart Dustbin Using Arduino 🗑️
-
-The dustbin will detect objects usin the **ultrasonic module** and triggee the **servo motor** which will then cause the lid of the dustbin to open <br>
-This is a small representation of how IOT devices work<br><br>
 
 
 
