@@ -23,8 +23,30 @@
 
 - Full Duplex Communication i.e. bidirectional communication
 
+# Charecteristics of IOT
 
+- Unique Identity : To uniqely identify each other and communicate
+- Dynamic Nature : Connected/Disconnected start/Stop On/Off continously
+- Self Configuring : Intelligently change settings according to enviroments
+- Hetroginity : Muliple protocols and wide compatability
 
+# IOT Security Problems
+
+- **DOS (Denial of Service)** : 1 attacker flooding server with garbage request
+- **DDOS (Distributed Denial of Service)** : Attacker floods server with botnet army
+- **Unauthorized Access** : Fraud user gets access to IOT system
+- **Information Manipulation** : Fraud User starts manipulating data 
+- **Information Manipulation** : Attcker gets access to location where data is stored by IOT devices
+
+# REST vs Web Socket
+
+## REST
+- stateless
+- each request involves settimng up a new TCP connection
+
+## Web Socket
+- statefull
+- single TCP connection
 
 
  
