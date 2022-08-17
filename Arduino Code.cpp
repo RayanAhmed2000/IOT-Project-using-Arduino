@@ -39,15 +39,15 @@ distance= duration*0.034/2;
 // Prints the distance on the Serial Monitor
 Serial.print("Distance: ");
 Serial.println(distance);
-if ( distance <= 25  ) // Change Distance according to Ultrasonic Sensor Placement
+if ( distance <= 50 ) // Change Distance according to Ultrasonic Sensor Placement
  {
 
 servo.write(0);
-delay(10);
+delay(3000);
  } 
 else 
 {
-servo.write(90);
+servo.write(120);
 
  }
 
