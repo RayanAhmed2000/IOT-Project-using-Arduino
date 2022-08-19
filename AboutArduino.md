@@ -26,4 +26,6 @@ used to measure voltage (0-5V)
 # Notes
 - pin 13 has inbuilt register
 - setup section in IDE is used to initialise pins
-- 
+
+
+
