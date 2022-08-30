@@ -49,5 +49,5 @@ Gnd         -> Gnd <br><br>
 **To view my simulator circuit that I created on WORKWI** [Click here](https://wokwi.com/projects/338614110134469203)<br><br>
 **To view Arduino code on my github profile** [Click here](https://github.com/RayanAhmed2000/IOT-Project-using-Arduino/blob/main/Arduino%20Code.cpp)<br><br>
 **To watch my Project video** [Click here](https://drive.google.com/file/d/1vuuxnb8XBSyS66iLf3biRZmkiysFHjsh/view?usp=sharing)<br><br>
-**To see my Project video on LinkedIn** [Click here]()<br><br>
+**To see my Project video on LinkedIn** [Click here](https://www.linkedin.com/posts/rayan-ahmed-343160220_iot-project-iot-activity-6968612913771089921-Uztb?utm_source=share&utm_medium=member_desktop)<br><br>
 
